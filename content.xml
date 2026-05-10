@@ -1,0 +1,835 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>202605102142416HH9WJ</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>202605102142415MAJPS</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>“Inteligencia Artificial, CNN y robótica: análisis y soluciones tecnológicas para la contaminación de playas”</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>4º de Educación Secundaria Obligatoria (ESO)</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Migue Francisco Hernández Roldán</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Aplicación de la inteligencia artificial, incluyendo modelos de aprendizaje automático y redes neuronales, redes neuronales convolucionales (CNN) y modelos basados en transformers para visión, junto con la robótica, para el análisis y la búsqueda de soluciones ante problemas medioambientales reales como la contaminación de playas.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778432923949</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mp011mhm-6rhxc5f8p</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>SITUACIÓN DE APRENDIZAJE / UNIDAD DIDÁCTICA</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SITUACIÓN DE APRENDIZAJE / UNIDAD DIDÁCTICA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Página nueva</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>SITUACIÓN DE APRENDIZAJE / UNIDAD DIDÁCTICA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp011mhm-6rhxc5f8p</odePageId>
+      <odeBlockId>block-1778433125750-57wj1bw01</odeBlockId>
+      <blockName>SITUACIÓN DE APRENDIZAJE / UNIDAD DIDÁCTICA</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp011mhm-6rhxc5f8p</odePageId>
+          <odeBlockId>block-1778433125750-57wj1bw01</odeBlockId>
+          <odeIdeviceId>idevice-1778433125748-hey9lttuf</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Duración">Duración</span></dt><dd></dd></div><div class="inline"><dt><span title="Agrupamiento">Agrupamiento</span></dt><dd>30</dd></div></dl><p><img src="{{context_path}}/content/resources/Typical_cnn_fr.png" width="1040" height="320" alt="" /></p>
+<p style="text-align: right;"><sup>Img: https://commons.wikimedia.org/wiki/File:Typical_cnn.png</sup></p>
+<p>Centro de interés o temática<br />Aplicación de la inteligencia artificial, incluyendo modelos de aprendizaje automático y redes neuronales, redes neuronales convolucionales (CNN) y modelos basados en transformers para visión, junto con la robótica, para el análisis y la búsqueda de soluciones ante problemas medioambientales reales como la contaminación de playas.</p>
+<p>Nivel al que va dirigido<br />4º de Educación Secundaria Obligatoria (ESO)</p>
+<p>Temporalización aproximada<br />10–12 sesiones distribuidas de la siguiente manera:</p>
+<p>2 sesiones: Introducción a la inteligencia artificial, datasets y problemática medioambiental<br />1 sesión: Diseño del proyecto y organización de grupos y roles<br />1 sesión: Recogida de datos en entorno real (salida)<br />2 sesiones: Selección, organización y etiquetado del dataset<br />3 sesiones: Introducción aplicada a modelos de IA y aproximación a CNN (funcionamiento conceptual y uso guiado)<br />1 sesión: Reentrenamiento de modelos con los datos generados<br />1 sesión: Investigación sobre robótica aplicada a la limpieza de entornos<br />1 sesión: Síntesis, reflexión final y evaluación</p>
+<p>Materias implicadas<br />Tecnologías de la Información y la Comunicación (TIC)<br />Biología y Geología (enfoque medioambiental y sostenibilidad)</p>
+<p>Idioma<br />Español/Inglés</p>
+<p><br />Descripción general de lo que se pretende que el alumnado aprenda o trabaje<br />En esta situación de aprendizaje, el alumnado desarrollará un proyecto interdisciplinar centrado en el uso de la inteligencia artificial para analizar el estado de limpieza de playas y reflexionar sobre posibles soluciones tecnológicas a la contaminación medioambiental.</p>
+<p>El proceso comenzará con una introducción a los conceptos básicos de inteligencia artificial y al papel de los datos en el entrenamiento de modelos. Posteriormente, el alumnado diseñará en grupo un plan de trabajo y participará en la recogida de datos en un entorno real, mediante la toma de imágenes que representen diferentes estados de limpieza de una playa.</p>
+<p>Una parte fundamental del proyecto será la creación, organización y etiquetado de un dataset propio, dedicando varias sesiones a garantizar la calidad, coherencia y utilidad de los datos. Este proceso permitirá al alumnado comprender la importancia de los datos en el funcionamiento de los sistemas de inteligencia artificial.</p>
+<p>A continuación, se trabajará con modelos de inteligencia artificial preentrenados, introduciendo el concepto de reentrenamiento (fine-tuning) mediante el uso de los datos generados. De forma progresiva y adaptada, se incorporará una aproximación a las redes neuronales, redes neuronales convolucionales (CNN) y modelos basados en transformers para visión centrándose en su lógica de funcionamiento y en su capacidad para procesar información secuencial, evitando la complejidad técnica excesiva.</p>
+<p>El alumnado experimentará con herramientas accesibles que le permitan observar cómo los modelos pueden mejorar a partir de nuevos datos, comprendiendo los principios básicos del aprendizaje automático.</p>
+<p>Como complemento, se desarrollará una actividad de investigación en la que el alumnado analizará aplicaciones reales de la inteligencia artificial en robótica, especialmente en sistemas diseñados para la limpieza de entornos naturales. Esta fase permitirá conectar los contenidos trabajados con soluciones tecnológicas actuales y fomentar el pensamiento crítico sobre su impacto.</p>
+<p>El trabajo se organizará mediante aprendizaje cooperativo, con roles definidos dentro de cada grupo, promoviendo la responsabilidad individual y la colaboración. A lo largo del proceso se incluirán momentos de reflexión guiada, con el objetivo de consolidar el aprendizaje y asegurar la comprensión de los conceptos clave.</p>
+<p>Se trabajarán competencias digitales, pensamiento crítico, resolución de problemas, trabajo en equipo y conciencia medioambiental, prestando especial atención tanto al proceso como al resultado final.</p>
+<p>Justificación de la propuesta (basada en la rutina de pensamiento)<br />Esta situación de aprendizaje se diseña a partir del análisis reflexivo de una experiencia previa, en la que se puso en práctica una actividad basada en metodologías activas y en el uso de tecnología en un entorno real.</p>
+<p>Entre los aspectos más positivos identificados en dicha experiencia, destaca la alta motivación del alumnado, su implicación en tareas prácticas y la conexión del aprendizaje con un contexto real. El uso de la inteligencia artificial como eje de la actividad resultó especialmente significativo, al tratarse de una tecnología cercana a la realidad actual del alumnado y con gran potencial educativo. Por ello, esta propuesta mantiene el enfoque activo, contextualizado e interdisciplinar.</p>
+<p>Sin embargo, el análisis también evidenció diversas dificultades que han sido determinantes en el rediseño de la actividad. Entre ellas, destacan la falta de estructuración clara del proceso, la desigual implicación del alumnado, la dispersión en entornos abiertos y una evaluación poco sistematizada. Asimismo, se observó que parte del alumnado no alcanzaba una comprensión profunda de los objetivos de aprendizaje, especialmente en los aspectos más técnicos.</p>
+<p>En respuesta a estas limitaciones, la presente propuesta introduce mejoras orientadas a reforzar la organización y la eficacia pedagógica:</p>
+<p>Se amplía la temporalización para permitir un desarrollo más pausado y profundo<br />Se estructura claramente la secuencia de actividades<br />Se incorporan roles definidos dentro del trabajo cooperativo<br />Se incluyen sesiones específicas para el etiquetado de datos, reforzando un aspecto clave que anteriormente no se trabajó con suficiente profundidad<br />Se añaden momentos de seguimiento y reflexión durante el proceso<br />Se plantea una evaluación más estructurada<br />Además, se actualiza el enfoque tecnológico incorporando el concepto de reentrenamiento de modelos de inteligencia artificial y una aproximación a modelos más avanzados, como las redes neuronales, redes neuronales convolucionales (CNN) y modelos basados en transformers para visión. Esta incorporación responde a la necesidad de acercar al alumnado a tecnologías actuales, pero se realiza de forma adaptada a su nivel, priorizando la comprensión conceptual frente a la complejidad técnica, evitando así dificultades detectadas en la experiencia previa.</p>
+<p>La ampliación del número de sesiones dedicadas a estos contenidos permite profundizar en el aprendizaje y reducir la superficialidad, uno de los aspectos identificados como mejorables.</p>
+<p>Por otro lado, se introduce una dimensión de investigación en robótica como aplicación práctica de la inteligencia artificial. Este elemento permite ampliar la perspectiva del alumnado sobre el uso de la tecnología en la resolución de problemas reales, especialmente en el ámbito medioambiental, sin desviar el foco principal de la actividad.</p>
+<p>Esta propuesta responde, por tanto, a la necesidad de equilibrar innovación y estructura, gestionando la incertidumbre inherente a las prácticas educativas transformadoras. Asimismo, refleja un proceso de mejora docente basado en la reflexión crítica, en el que se mantienen los elementos que favorecen el aprendizaje significativo y se incorporan estrategias para mejorar la organización, el seguimiento y la evaluación.</p>
+<p>En definitiva, se plantea una situación de aprendizaje coherente con las demandas educativas actuales, que integra tecnología, contexto real y metodologías activas, garantizando al mismo tiempo una mayor profundidad en el aprendizaje y un mayor control del proceso educativo.</p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778433125748-hey9lttuf","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"30","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Duración\">Duración</span></dt><dd></dd></div><div class=\"inline\"><dt><span title=\"Agrupamiento\">Agrupamiento</span></dt><dd>30</dd></div></dl><p><img src=\"{{context_path}}/content/resources/Typical_cnn_fr.png\" width=\"1040\" height=\"320\" alt=\"\" /></p>\n<p style=\"text-align: right;\"><sup>Img: https://commons.wikimedia.org/wiki/File:Typical_cnn.png</sup></p>\n<p>Centro de interés o temática<br />Aplicación de la inteligencia artificial, incluyendo modelos de aprendizaje automático y redes neuronales, redes neuronales convolucionales (CNN) y modelos basados en transformers para visión, junto con la robótica, para el análisis y la búsqueda de soluciones ante problemas medioambientales reales como la contaminación de playas.</p>\n<p>Nivel al que va dirigido<br />4º de Educación Secundaria Obligatoria (ESO)</p>\n<p>Temporalización aproximada<br />10–12 sesiones distribuidas de la siguiente manera:</p>\n<p>2 sesiones: Introducción a la inteligencia artificial, datasets y problemática medioambiental<br />1 sesión: Diseño del proyecto y organización de grupos y roles<br />1 sesión: Recogida de datos en entorno real (salida)<br />2 sesiones: Selección, organización y etiquetado del dataset<br />3 sesiones: Introducción aplicada a modelos de IA y aproximación a CNN (funcionamiento conceptual y uso guiado)<br />1 sesión: Reentrenamiento de modelos con los datos generados<br />1 sesión: Investigación sobre robótica aplicada a la limpieza de entornos<br />1 sesión: Síntesis, reflexión final y evaluación</p>\n<p>Materias implicadas<br />Tecnologías de la Información y la Comunicación (TIC)<br />Biología y Geología (enfoque medioambiental y sostenibilidad)</p>\n<p>Idioma<br />Español/Inglés</p>\n<p><br />Descripción general de lo que se pretende que el alumnado aprenda o trabaje<br />En esta situación de aprendizaje, el alumnado desarrollará un proyecto interdisciplinar centrado en el uso de la inteligencia artificial para analizar el estado de limpieza de playas y reflexionar sobre posibles soluciones tecnológicas a la contaminación medioambiental.</p>\n<p>El proceso comenzará con una introducción a los conceptos básicos de inteligencia artificial y al papel de los datos en el entrenamiento de modelos. Posteriormente, el alumnado diseñará en grupo un plan de trabajo y participará en la recogida de datos en un entorno real, mediante la toma de imágenes que representen diferentes estados de limpieza de una playa.</p>\n<p>Una parte fundamental del proyecto será la creación, organización y etiquetado de un dataset propio, dedicando varias sesiones a garantizar la calidad, coherencia y utilidad de los datos. Este proceso permitirá al alumnado comprender la importancia de los datos en el funcionamiento de los sistemas de inteligencia artificial.</p>\n<p>A continuación, se trabajará con modelos de inteligencia artificial preentrenados, introduciendo el concepto de reentrenamiento (fine-tuning) mediante el uso de los datos generados. De forma progresiva y adaptada, se incorporará una aproximación a las redes neuronales, redes neuronales convolucionales (CNN) y modelos basados en transformers para visión centrándose en su lógica de funcionamiento y en su capacidad para procesar información secuencial, evitando la complejidad técnica excesiva.</p>\n<p>El alumnado experimentará con herramientas accesibles que le permitan observar cómo los modelos pueden mejorar a partir de nuevos datos, comprendiendo los principios básicos del aprendizaje automático.</p>\n<p>Como complemento, se desarrollará una actividad de investigación en la que el alumnado analizará aplicaciones reales de la inteligencia artificial en robótica, especialmente en sistemas diseñados para la limpieza de entornos naturales. Esta fase permitirá conectar los contenidos trabajados con soluciones tecnológicas actuales y fomentar el pensamiento crítico sobre su impacto.</p>\n<p>El trabajo se organizará mediante aprendizaje cooperativo, con roles definidos dentro de cada grupo, promoviendo la responsabilidad individual y la colaboración. A lo largo del proceso se incluirán momentos de reflexión guiada, con el objetivo de consolidar el aprendizaje y asegurar la comprensión de los conceptos clave.</p>\n<p>Se trabajarán competencias digitales, pensamiento crítico, resolución de problemas, trabajo en equipo y conciencia medioambiental, prestando especial atención tanto al proceso como al resultado final.</p>\n<p>Justificación de la propuesta (basada en la rutina de pensamiento)<br />Esta situación de aprendizaje se diseña a partir del análisis reflexivo de una experiencia previa, en la que se puso en práctica una actividad basada en metodologías activas y en el uso de tecnología en un entorno real.</p>\n<p>Entre los aspectos más positivos identificados en dicha experiencia, destaca la alta motivación del alumnado, su implicación en tareas prácticas y la conexión del aprendizaje con un contexto real. El uso de la inteligencia artificial como eje de la actividad resultó especialmente significativo, al tratarse de una tecnología cercana a la realidad actual del alumnado y con gran potencial educativo. Por ello, esta propuesta mantiene el enfoque activo, contextualizado e interdisciplinar.</p>\n<p>Sin embargo, el análisis también evidenció diversas dificultades que han sido determinantes en el rediseño de la actividad. Entre ellas, destacan la falta de estructuración clara del proceso, la desigual implicación del alumnado, la dispersión en entornos abiertos y una evaluación poco sistematizada. Asimismo, se observó que parte del alumnado no alcanzaba una comprensión profunda de los objetivos de aprendizaje, especialmente en los aspectos más técnicos.</p>\n<p>En respuesta a estas limitaciones, la presente propuesta introduce mejoras orientadas a reforzar la organización y la eficacia pedagógica:</p>\n<p>Se amplía la temporalización para permitir un desarrollo más pausado y profundo<br />Se estructura claramente la secuencia de actividades<br />Se incorporan roles definidos dentro del trabajo cooperativo<br />Se incluyen sesiones específicas para el etiquetado de datos, reforzando un aspecto clave que anteriormente no se trabajó con suficiente profundidad<br />Se añaden momentos de seguimiento y reflexión durante el proceso<br />Se plantea una evaluación más estructurada<br />Además, se actualiza el enfoque tecnológico incorporando el concepto de reentrenamiento de modelos de inteligencia artificial y una aproximación a modelos más avanzados, como las redes neuronales, redes neuronales convolucionales (CNN) y modelos basados en transformers para visión. Esta incorporación responde a la necesidad de acercar al alumnado a tecnologías actuales, pero se realiza de forma adaptada a su nivel, priorizando la comprensión conceptual frente a la complejidad técnica, evitando así dificultades detectadas en la experiencia previa.</p>\n<p>La ampliación del número de sesiones dedicadas a estos contenidos permite profundizar en el aprendizaje y reducir la superficialidad, uno de los aspectos identificados como mejorables.</p>\n<p>Por otro lado, se introduce una dimensión de investigación en robótica como aplicación práctica de la inteligencia artificial. Este elemento permite ampliar la perspectiva del alumnado sobre el uso de la tecnología en la resolución de problemas reales, especialmente en el ámbito medioambiental, sin desviar el foco principal de la actividad.</p>\n<p>Esta propuesta responde, por tanto, a la necesidad de equilibrar innovación y estructura, gestionando la incertidumbre inherente a las prácticas educativas transformadoras. Asimismo, refleja un proceso de mejora docente basado en la reflexión crítica, en el que se mantienen los elementos que favorecen el aprendizaje significativo y se incorporan estrategias para mejorar la organización, el seguimiento y la evaluación.</p>\n<p>En definitiva, se plantea una situación de aprendizaje coherente con las demandas educativas actuales, que integra tecnología, contexto real y metodologías activas, garantizando al mismo tiempo una mayor profundidad en el aprendizaje y un mayor control del proceso educativo.</p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778433504166-4wwy3ptpc</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Protección de datos personales y garantías de derechos digitales</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Protección de datos personales y garantías de derechos digitales</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778433504166-4wwy3ptpc</odePageId>
+      <odeBlockId>block-1778433534022-ghj4xub4o</odeBlockId>
+      <blockName>Uso responsable y legal de los entornos digitales</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778433504166-4wwy3ptpc</odePageId>
+          <odeBlockId>block-1778433534022-ghj4xub4o</odeBlockId>
+          <odeIdeviceId>idevice-1778433534021-vbe3cosou</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El uso de la tecnología implica respetar la privacidad, la legalidad y la ética en el manejo de la información.</p>
+<ul>
+<li><strong>RGPD: Garantizar la privacidad de la personal</strong><br />Protección de datos personales<br />Minimización → solo recoger los datos necesarios<br />Anonimización → ocultar o eliminar datos identificativos<br />Consentimiento → el usuario debe autorizar el uso de sus datos</li>
+<li><strong>LOPDGDD: Datos y Garantía de Derechos Digitales</strong><br />Seguridad digital → uso de entornos controlados y protegidos<br />Derecho al olvido → eliminar datos personales cuando se solicite<br />Huella digital → responsabilidad sobre la información que dejamos en internet</li>
+<li><strong>PROPIEDAD INTELECTUAL: Uso legal de contenidos digitales </strong><br />Licencias Creative Commons<br />Atribución obligatoria<br />Open Source (software libre)</li>
+<li><strong>DECÁLOGO DEL AUDITOR ÉTICO: Conducta profesional en auditoría digital</strong><br />Autorización → solo con permiso<br />Confidencialidad → no divulgar información<br />Integridad → no dañar sistemas<br />Responsabilidad → consecuencias de acciones</li>
+</ul>
+<p><img src="{{context_path}}/content/resources/Copia de Gráfico Infografía de Elementos Relacionados Minimalista Moderno Azul.png" title="Infografía derechos digitales y protección de datos personales" width="1024" height="768" alt="Infografía derechos digitales y protección de datos personales" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778433534021-vbe3cosou","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El uso de la tecnología implica respetar la privacidad, la legalidad y la ética en el manejo de la información.</p>\n<ul>\n<li><strong>RGPD: Garantizar la privacidad de la personal</strong><br />Protección de datos personales<br />Minimización → solo recoger los datos necesarios<br />Anonimización → ocultar o eliminar datos identificativos<br />Consentimiento → el usuario debe autorizar el uso de sus datos</li>\n<li><strong>LOPDGDD: Datos y Garantía de Derechos Digitales</strong><br />Seguridad digital → uso de entornos controlados y protegidos<br />Derecho al olvido → eliminar datos personales cuando se solicite<br />Huella digital → responsabilidad sobre la información que dejamos en internet</li>\n<li><strong>PROPIEDAD INTELECTUAL: Uso legal de contenidos digitales </strong><br />Licencias Creative Commons<br />Atribución obligatoria<br />Open Source (software libre)</li>\n<li><strong>DECÁLOGO DEL AUDITOR ÉTICO: Conducta profesional en auditoría digital</strong><br />Autorización → solo con permiso<br />Confidencialidad → no divulgar información<br />Integridad → no dañar sistemas<br />Responsabilidad → consecuencias de acciones</li>\n</ul>\n<p><img src=\"{{context_path}}/content/resources/Copia de Gráfico Infografía de Elementos Relacionados Minimalista Moderno Azul.png\" title=\"Infografía derechos digitales y protección de datos personales\" width=\"1024\" height=\"768\" alt=\"Infografía derechos digitales y protección de datos personales\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778434458115-6h951wvxq</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Descripción del producto final</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descripción del producto final</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778434458115-6h951wvxq</odePageId>
+      <odeBlockId>block-1778435189086-ogko77frs</odeBlockId>
+      <blockName>Canva powered</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778434458115-6h951wvxq</odePageId>
+          <odeBlockId>block-1778435189086-ogko77frs</odeBlockId>
+          <odeIdeviceId>idevice-1778435189083-1wk2tm52n</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para el desarrollo del producto final de esta Situación de Aprendizaje se utilizarán principalmente herramientas digitales relacionadas con la creación y tratamiento de datasets, la clasificación de imágenes y la presentación colaborativa de resultados.</p>
+<p>Las herramientas seleccionadas serán:</p>
+<p>Google Drive y Google Sheets<br />Google Colab<br />Canva<br />Herramientas de visión artificial con modelos preentrenados basados en CNN<br />La selección de estas herramientas se justifica por su coherencia con diferentes criterios pedagógicos, técnicos y contextuales.</p>
+<p>El alumnado de 4º de ESO presenta un nivel de competencia digital suficiente para trabajar con herramientas colaborativas y plataformas digitales accesibles. No obstante, se considera importante utilizar recursos intuitivos y progresivos que permitan centrar la atención en la comprensión de los procesos y no únicamente en la complejidad técnica.</p>
+<p>Por este motivo:</p>
+<p>Canva facilita la creación de presentaciones visuales de manera sencilla e intuitiva.<br />Google Drive y Google Sheets permiten organizar información y trabajar colaborativamente sin necesidad de conocimientos técnicos avanzados.<br />Google Colab posibilita una aproximación guiada al trabajo con inteligencia artificial en un entorno accesible y adaptable.<br />El uso de modelos preentrenados evita la necesidad de desarrollar sistemas complejos desde cero, permitiendo que el alumnado comprenda conceptos como dataset, clasificación de imágenes y reentrenamiento de modelos de forma práctica y significativa.</p>
+<p>Las herramientas seleccionadas permiten desarrollar de manera coherente los objetivos principales del proyecto. Permiten compartir información, trabajo colaborativo, presentar visualmente, etcétara</p>
+<p>Se priorizan plataformas gratuitas o de fácil acceso desde dispositivos habituales del alumnado y del centro, evitando la dependencia de software especializado complejo o de alto coste.<br /><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778435189083-1wk2tm52n","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para el desarrollo del producto final de esta Situación de Aprendizaje se utilizarán principalmente herramientas digitales relacionadas con la creación y tratamiento de datasets, la clasificación de imágenes y la presentación colaborativa de resultados.</p>\n<p>Las herramientas seleccionadas serán:</p>\n<p>Google Drive y Google Sheets<br />Google Colab<br />Canva<br />Herramientas de visión artificial con modelos preentrenados basados en CNN<br />La selección de estas herramientas se justifica por su coherencia con diferentes criterios pedagógicos, técnicos y contextuales.</p>\n<p>El alumnado de 4º de ESO presenta un nivel de competencia digital suficiente para trabajar con herramientas colaborativas y plataformas digitales accesibles. No obstante, se considera importante utilizar recursos intuitivos y progresivos que permitan centrar la atención en la comprensión de los procesos y no únicamente en la complejidad técnica.</p>\n<p>Por este motivo:</p>\n<p>Canva facilita la creación de presentaciones visuales de manera sencilla e intuitiva.<br />Google Drive y Google Sheets permiten organizar información y trabajar colaborativamente sin necesidad de conocimientos técnicos avanzados.<br />Google Colab posibilita una aproximación guiada al trabajo con inteligencia artificial en un entorno accesible y adaptable.<br />El uso de modelos preentrenados evita la necesidad de desarrollar sistemas complejos desde cero, permitiendo que el alumnado comprenda conceptos como dataset, clasificación de imágenes y reentrenamiento de modelos de forma práctica y significativa.</p>\n<p>Las herramientas seleccionadas permiten desarrollar de manera coherente los objetivos principales del proyecto. Permiten compartir información, trabajo colaborativo, presentar visualmente, etcétara</p>\n<p>Se priorizan plataformas gratuitas o de fácil acceso desde dispositivos habituales del alumnado y del centro, evitando la dependencia de software especializado complejo o de alto coste.<br /><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778435766186-dusr29qrq</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Curación de contenidos</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Curación de contenidos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Curación de contenidos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778435766186-dusr29qrq</odePageId>
+      <odeBlockId>block-1778435772122-p6elgjcsq</odeBlockId>
+      <blockName>¿Cómo realizo la curación de contenidos?</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778435766186-dusr29qrq</odePageId>
+          <odeBlockId>block-1778435772122-p6elgjcsq</odeBlockId>
+          <odeIdeviceId>idevice-1778435772120-vg8j0h3yp</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Pienso qué  problemas necesita resolver mi alumnado:<br />Necesitan resolver problemas reales de servicios de red (DNS, DHCP, HTTP,...) relacionados con los criterios de evaluación. No necesitan 50 enlaces, necesitan 1 o 2 que funcionen y un algún otro que les conmine a profundizar y reflexionar.</p>
+<p>Selección y filtro:<br />Elegido el problema es necesario encontrar la fuente de quien lo haya resuelto y probar la solución. Si funciona, y es interesante, y directo lo utilizo. También si aporta información adicional de enriquecimiento aunque dificulte la tarea. Si no, es eliminado. Calidad antes que cantidad.</p>
+<p>Organizo la información:<br />Uso un documento índice con toda la información para compartir.</p>
+<p>Retroalimentación:</p>
+<p>Estoy pendiente, observando para comprobar que no se abusa de la IA y que los recursos son utilizados, y son útiles.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778435772120-vg8j0h3yp","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Pienso qué  problemas necesita resolver mi alumnado:<br />Necesitan resolver problemas reales de servicios de red (DNS, DHCP, HTTP,...) relacionados con los criterios de evaluación. No necesitan 50 enlaces, necesitan 1 o 2 que funcionen y un algún otro que les conmine a profundizar y reflexionar.</p>\n<p>Selección y filtro:<br />Elegido el problema es necesario encontrar la fuente de quien lo haya resuelto y probar la solución. Si funciona, y es interesante, y directo lo utilizo. También si aporta información adicional de enriquecimiento aunque dificulte la tarea. Si no, es eliminado. Calidad antes que cantidad.</p>\n<p>Organizo la información:<br />Uso un documento índice con toda la información para compartir.</p>\n<p>Retroalimentación:</p>\n<p>Estoy pendiente, observando para comprobar que no se abusa de la IA y que los recursos son utilizados, y son útiles.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778435985236-uy3zzazry</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Documentación seleccionada para actividades</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Documentación seleccionada para actividades</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778435985236-uy3zzazry</odePageId>
+      <odeBlockId>block-1778436001758-d11dxe1x2</odeBlockId>
+      <blockName>Enlaces de apoyo a la realización y herramientas</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778435985236-uy3zzazry</odePageId>
+          <odeBlockId>block-1778436001758-d11dxe1x2</odeBlockId>
+          <odeIdeviceId>idevice-1778436001756-upu984cro</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>A continuación se proponen los siguientes conjuntos de documentos, adecuados para la realización de tareas propuestas.</p>
+<p>Herramienta 1:  <a href="https://padlet.com/mherrol198/web-segura-cura-que-te-curare-ful27bu5l3svmyl1">https://padlet.com/mherrol198/web-segura-cura-que-te-curare-ful27bu5l3svmyl1</a></p>
+<p>Herramienta 2: <a href="https://canva.link/eaoung4l9hsd48k">https://canva.link/eaoung4l9hsd48k</a></p>
+<p></p>
+<p><strong>Servidor seguro links</strong></p>
+<ul>
+<li title=""><a href="https://www.digitalocean.com/community/tutorials/how-to-create-a-self-signed-ssl-certificate-for-nginx-in-ubuntu-20-04-1">https://www.digitalocean.com/community/tutorials/how-to-create-a-self-signed-ssl-certificate-for-nginx-in-ubuntu-20-04-1</a></li>
+<li title=""><a href="https://www.sslshopper.com/certificate-decoder.html">https://www.sslshopper.com/certificate-decoder.html</a></li>
+<li title=""><a href="https://www.ssl.com/guide/pem-der-crt-and-cer-x-509-encodings-and-conversions">https://www.ssl.com/guide/pem-der-crt-and-cer-x-509-encodings-and-conversions</a></li>
+<li title=""><a href="https://security.stackexchange.com/questions/95178/diffie-hellman-parameters-still-calculating-after-24-hours">https://security.stackexchange.com/questions/95178/diffie-hellman-parameters-still-calculating-after-24-hours</a></li>
+</ul>
+<p><strong>Resolución de nombres</strong></p>
+<p>Marco general: <a href="https://www.digitalocean.com/community/tutorials/how-to-configure-bind-as-a-private-network-dns-server-on-ubuntu-18-04-es#configurar-el-servidor-dns-secundario">https://www.digitalocean.com/community/tutorials/how-to-configure-bind-as-a-private-network-dns-server-on-ubuntu-18-04-es#configurar-el-servidor-dns-secundario</a></p>
+<p>básico 1: <a href="https://serverspace.io/support/help/configure-bind9-dns-server-on-ubuntu/">https://serverspace.io/support/help/configure-bind9-dns-server-on-ubuntu/</a></p>
+<p>básico 2: <a href="https://serverspace.io/support/help/bind9-as-a-primary-dns-server-on-ubuntu/">https://serverspace.io/support/help/bind9-as-a-primary-dns-server-on-ubuntu/</a></p>
+<p>básico 3: <a href="https://serverspace.io/support/help/bind9-as-a-secondary-dns-server-on-ubuntu/">https://serverspace.io/support/help/bind9-as-a-secondary-dns-server-on-ubuntu/</a></p>
+<p><br />Inversa teoría: <a href="https://docs.google.com/document/d/1ezcJHD-Gq5Zp8ty78z94y9U0h7NAfgkXH7eFnBhE0Aw/edit?usp=sharing">https://docs.google.com/document/d/1ezcJHD-Gq5Zp8ty78z94y9U0h7NAfgkXH7eFnBhE0Aw/edit?usp=sharing </a></p>
+<p>Inversa 1: <a href="https://computingforgeeks.com/configure-master-bind-dns-server-on-ubuntu/">https://computingforgeeks.com/configure-master-bind-dns-server-on-ubuntu/</a></p>
+<p>Inversa 2: <a href="https://computingforgeeks.com/configure-slave-bind-dns-server-on-ubuntu/">https://computingforgeeks.com/configure-slave-bind-dns-server-on-ubuntu/</a></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778436001756-upu984cro","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>A continuación se proponen los siguientes conjuntos de documentos, adecuados para la realización de tareas propuestas.</p>\n<p>Herramienta 1:  <a href=\"https://padlet.com/mherrol198/web-segura-cura-que-te-curare-ful27bu5l3svmyl1\">https://padlet.com/mherrol198/web-segura-cura-que-te-curare-ful27bu5l3svmyl1</a></p>\n<p>Herramienta 2: <a href=\"https://canva.link/eaoung4l9hsd48k\">https://canva.link/eaoung4l9hsd48k</a></p>\n<p></p>\n<p><strong>Servidor seguro links</strong></p>\n<ul>\n<li title=\"\"><a href=\"https://www.digitalocean.com/community/tutorials/how-to-create-a-self-signed-ssl-certificate-for-nginx-in-ubuntu-20-04-1\">https://www.digitalocean.com/community/tutorials/how-to-create-a-self-signed-ssl-certificate-for-nginx-in-ubuntu-20-04-1</a></li>\n<li title=\"\"><a href=\"https://www.sslshopper.com/certificate-decoder.html\">https://www.sslshopper.com/certificate-decoder.html</a></li>\n<li title=\"\"><a href=\"https://www.ssl.com/guide/pem-der-crt-and-cer-x-509-encodings-and-conversions\">https://www.ssl.com/guide/pem-der-crt-and-cer-x-509-encodings-and-conversions</a></li>\n<li title=\"\"><a href=\"https://security.stackexchange.com/questions/95178/diffie-hellman-parameters-still-calculating-after-24-hours\">https://security.stackexchange.com/questions/95178/diffie-hellman-parameters-still-calculating-after-24-hours</a></li>\n</ul>\n<p><strong>Resolución de nombres</strong></p>\n<p>Marco general: <a href=\"https://www.digitalocean.com/community/tutorials/how-to-configure-bind-as-a-private-network-dns-server-on-ubuntu-18-04-es#configurar-el-servidor-dns-secundario\">https://www.digitalocean.com/community/tutorials/how-to-configure-bind-as-a-private-network-dns-server-on-ubuntu-18-04-es#configurar-el-servidor-dns-secundario</a></p>\n<p>básico 1: <a href=\"https://serverspace.io/support/help/configure-bind9-dns-server-on-ubuntu/\">https://serverspace.io/support/help/configure-bind9-dns-server-on-ubuntu/</a></p>\n<p>básico 2: <a href=\"https://serverspace.io/support/help/bind9-as-a-primary-dns-server-on-ubuntu/\">https://serverspace.io/support/help/bind9-as-a-primary-dns-server-on-ubuntu/</a></p>\n<p>básico 3: <a href=\"https://serverspace.io/support/help/bind9-as-a-secondary-dns-server-on-ubuntu/\">https://serverspace.io/support/help/bind9-as-a-secondary-dns-server-on-ubuntu/</a></p>\n<p><br />Inversa teoría: <a href=\"https://docs.google.com/document/d/1ezcJHD-Gq5Zp8ty78z94y9U0h7NAfgkXH7eFnBhE0Aw/edit?usp=sharing\">https://docs.google.com/document/d/1ezcJHD-Gq5Zp8ty78z94y9U0h7NAfgkXH7eFnBhE0Aw/edit?usp=sharing </a></p>\n<p>Inversa 1: <a href=\"https://computingforgeeks.com/configure-master-bind-dns-server-on-ubuntu/\">https://computingforgeeks.com/configure-master-bind-dns-server-on-ubuntu/</a></p>\n<p>Inversa 2: <a href=\"https://computingforgeeks.com/configure-slave-bind-dns-server-on-ubuntu/\">https://computingforgeeks.com/configure-slave-bind-dns-server-on-ubuntu/</a></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778436969012-kylj13tm9</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Secuencia de actividades</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Secuencia de actividades</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778436969012-kylj13tm9</odePageId>
+      <odeBlockId>block-1778436972460-o8v2qg76u</odeBlockId>
+      <blockName>Línea del tiempo</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778436969012-kylj13tm9</odePageId>
+          <odeBlockId>block-1778436972460-o8v2qg76u</odeBlockId>
+          <odeIdeviceId>idevice-1778436972459-fn7hovsos</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ol>
+<li> Introducción a la inteligencia artificial, sostenibilidad y problemática de la contaminación de playas mediante vídeos, noticias y debate guiado.<br />Investigación inicial sobre aplicaciones reales de inteligencia artificial y robótica en la limpieza de entornos naturales.</li>
+<li>Organización de grupos cooperativos y asignación de roles para el proyecto.<br />Diseño colaborativo del plan de trabajo y elaboración de normas de uso responsable de la tecnología y dispositivos móviles durante el proyecto.<br />Salida al entorno real para la recogida de imágenes sobre el estado de limpieza de la playa.</li>
+<li>Transferencia, almacenamiento y organización de las imágenes recogidas para construir un dataset.</li>
+<li>Etiquetado de imágenes y clasificación de datos para entrenar modelos de inteligencia artificial.</li>
+<li>Introducción conceptual a redes neuronales, CNN y modelos basados en transformers para visión mediante ejemplos visuales y simulaciones.<br />Uso guiado de modelos preentrenados para analizar imágenes del dataset generado por el alumnado.</li>
+<li>Resolución de incidencias técnicas relacionadas con archivos, conexión o funcionamiento de herramientas digitales durante el proyecto.</li>
+<li>Investigación sobre robots y sistemas automatizados aplicados a la limpieza de playas y mares.</li>
+<li>Elaboración de una presentación final con conclusiones sobre IA, sostenibilidad y posibles soluciones tecnológicas a la contaminación.<br />Exposición oral de los resultados y reflexión crítica final sobre el impacto social, ambiental y ético de la inteligencia artificial.</li>
+</ol>
+<p><img src="{{context_path}}/content/resources/Informatizando.png" title="mapa mental informizando" width="1280" height="720" alt="Mind map" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778436972459-fn7hovsos","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ol>\n<li> Introducción a la inteligencia artificial, sostenibilidad y problemática de la contaminación de playas mediante vídeos, noticias y debate guiado.<br />Investigación inicial sobre aplicaciones reales de inteligencia artificial y robótica en la limpieza de entornos naturales.</li>\n<li>Organización de grupos cooperativos y asignación de roles para el proyecto.<br />Diseño colaborativo del plan de trabajo y elaboración de normas de uso responsable de la tecnología y dispositivos móviles durante el proyecto.<br />Salida al entorno real para la recogida de imágenes sobre el estado de limpieza de la playa.</li>\n<li>Transferencia, almacenamiento y organización de las imágenes recogidas para construir un dataset.</li>\n<li>Etiquetado de imágenes y clasificación de datos para entrenar modelos de inteligencia artificial.</li>\n<li>Introducción conceptual a redes neuronales, CNN y modelos basados en transformers para visión mediante ejemplos visuales y simulaciones.<br />Uso guiado de modelos preentrenados para analizar imágenes del dataset generado por el alumnado.</li>\n<li>Resolución de incidencias técnicas relacionadas con archivos, conexión o funcionamiento de herramientas digitales durante el proyecto.</li>\n<li>Investigación sobre robots y sistemas automatizados aplicados a la limpieza de playas y mares.</li>\n<li>Elaboración de una presentación final con conclusiones sobre IA, sostenibilidad y posibles soluciones tecnológicas a la contaminación.<br />Exposición oral de los resultados y reflexión crítica final sobre el impacto social, ambiental y ético de la inteligencia artificial.</li>\n</ol>\n<p><img src=\"{{context_path}}/content/resources/Informatizando.png\" title=\"mapa mental informizando\" width=\"1280\" height=\"720\" alt=\"Mind map\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778437610596-0kzwcs82u</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guia Didáctica</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guia Didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Guia Didáctica</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778437610596-0kzwcs82u</odePageId>
+      <odeBlockId>block-1778441123037-zcqeb9g0k</odeBlockId>
+      <blockName>Introducción a la situación de aprendizaje y su evaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778437610596-0kzwcs82u</odePageId>
+          <odeBlockId>block-1778441123037-zcqeb9g0k</odeBlockId>
+          <odeIdeviceId>idevice-1778441123035-g0q77hxfq</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La presente situación de aprendizaje, titulada “Inteligencia Artificial, CNN y robótica: análisis y soluciones tecnológicas para la contaminación de playas”, tiene como finalidad acercar al alumnado a los fundamentos de la inteligencia artificial y su aplicación en problemas reales de su entorno, especialmente en el ámbito de la sostenibilidad ambiental.</p>
+<p>A lo largo del proyecto, el alumnado trabajará de forma progresiva en el diseño, recogida, tratamiento y análisis de datos visuales (imágenes de playas), con el objetivo de comprender cómo los sistemas de visión artificial pueden contribuir a la detección y clasificación de escenarios de contaminación. Este proceso permitirá introducir de manera adaptada conceptos como el funcionamiento de las redes neuronales convolucionales (CNN), el papel de los datos en el entrenamiento de modelos y las aplicaciones actuales de la robótica en tareas de limpieza y monitorización ambiental.</p>
+<p>La situación de aprendizaje se estructura en varias fases que combinan metodologías activas, trabajo cooperativo y uso de herramientas digitales. Estas fases incluyen desde la investigación inicial y la reflexión crítica, hasta la creación de un dataset propio, su etiquetado, y la experimentación con modelos de inteligencia artificial preentrenados.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778441123035-g0q77hxfq","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La presente situación de aprendizaje, titulada “Inteligencia Artificial, CNN y robótica: análisis y soluciones tecnológicas para la contaminación de playas”, tiene como finalidad acercar al alumnado a los fundamentos de la inteligencia artificial y su aplicación en problemas reales de su entorno, especialmente en el ámbito de la sostenibilidad ambiental.</p>\n<p>A lo largo del proyecto, el alumnado trabajará de forma progresiva en el diseño, recogida, tratamiento y análisis de datos visuales (imágenes de playas), con el objetivo de comprender cómo los sistemas de visión artificial pueden contribuir a la detección y clasificación de escenarios de contaminación. Este proceso permitirá introducir de manera adaptada conceptos como el funcionamiento de las redes neuronales convolucionales (CNN), el papel de los datos en el entrenamiento de modelos y las aplicaciones actuales de la robótica en tareas de limpieza y monitorización ambiental.</p>\n<p>La situación de aprendizaje se estructura en varias fases que combinan metodologías activas, trabajo cooperativo y uso de herramientas digitales. Estas fases incluyen desde la investigación inicial y la reflexión crítica, hasta la creación de un dataset propio, su etiquetado, y la experimentación con modelos de inteligencia artificial preentrenados.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778440924727-6q7hodkhv</odePageId>
+  <odeParentPageId>page-1778437610596-0kzwcs82u</odeParentPageId>
+  <pageName>Criterios de evaluación y actividades</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Criterios de evaluación y actividades</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778440924727-6q7hodkhv</odePageId>
+      <odeBlockId>block-1778440939417-rhwswv4fv</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778440924727-6q7hodkhv</odePageId>
+          <odeBlockId>block-1778440939417-rhwswv4fv</odeBlockId>
+          <odeIdeviceId>idevice-1778437612943-20hkv3b9n</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>“IA, visión artificial y robótica aplicada a la limpieza de playas”<br /><strong>FASE 1 — INTRODUCCIÓN Y CONTEXTUALIZACIÓN</strong><br /><strong>Actividad: Introducción a la inteligencia artificial, sostenibilidad y contaminación de playas mediante vídeos, noticias y debate guiado.</strong></p>
+<p>Criterio de evaluación:<br />DIG.4.4.3.</p>
+<p>Agrupamiento:<br />Gran grupo</p>
+<p>Duración:<br />1 sesión</p>
+<p>Herramientas digitales:<br />Canva, YouTube, Genially</p>
+<p><strong>Actividad: Investigación inicial sobre aplicaciones reales de IA y robótica en limpieza de entornos naturales.</strong></p>
+<p>Criterio de evaluación:<br />DIG.4.2.2.</p>
+<p>Agrupamiento:<br />Parejas</p>
+<p>Duración:<br />1 sesión</p>
+<p>Herramientas digitales:<br />Google Scholar, buscadores web, Padlet, Google Drive</p>
+<p><strong>FASE 2 — ORGANIZACIÓN DEL PROYECTO</strong><br /><strong>Actividad: </strong><strong>Organización de grupos cooperativos y asignación de roles.</strong></p>
+<p>Criterio de evaluación:<br />DIG.4.2.4.</p>
+<p>Agrupamiento:<br />Pequeño grupo</p>
+<p>Duración:<br />1 sesión</p>
+<p>Herramientas digitales:<br />Google Classroom, documentos compartidos, Trello</p>
+<p><strong>Actividad: Diseño del plan de trabajo y normas de uso responsable de la tecnología.</strong></p>
+<p>Criterio de evaluación:<br />DIG.4.4.1.</p>
+<p>Agrupamiento:<br />Pequeño grupo</p>
+<p>Duración:<br />1 sesión</p>
+<p>Herramientas digitales:<br />documentos colaborativos, Canva</p>
+<p><strong>FASE 3 — RECOGIDA Y ORGANIZACIÓN DE DATOS</strong><br /><strong>Actividad: Salida al entorno real para recoger imágenes del estado de limpieza de la playa.</strong></p>
+<p>Criterio de evaluación:<br />DIG.4.3.1.</p>
+<p>Agrupamiento:<br />Pequeño grupo</p>
+<p>Duración:<br />1 sesión</p>
+<p>Herramientas digitales:<br />dispositivos móviles, cámaras, Google Photos</p>
+<p><strong>Actividad: Transferencia, almacenamiento y organización de imágenes para crear el dataset.</strong></p>
+<p>Criterio de evaluación:<br />DIG.4.2.1.</p>
+<p>Agrupamiento:<br />Parejas</p>
+<p>Duración:<br />1 sesión</p>
+<p>Herramientas digitales:<br />Google Drive, Microsoft OneDrive</p>
+<p><strong>Actividad: Etiquetado y clasificación de imágenes para entrenar modelos de IA.</strong></p>
+<p>Criterio de evaluación:<br />DIG.4.2.3.</p>
+<p>Agrupamiento:<br />Pequeño grupo</p>
+<p>Duración:<br />2 sesiones</p>
+<p>Herramientas digitales:<br />Teachable Machine, Roboflow, hojas de cálculo</p>
+<p><strong>FASE 4 — INTRODUCCIÓN A LA VISIÓN ARTIFICIAL</strong><br /><strong>Actividad: </strong><strong>Introducción conceptual a redes neuronales, CNN y modelos modernos de visión artificial mediante ejemplos visuales y simulaciones.</strong></p>
+<p>Criterio de evaluación:<br />DIG.4.2.3.</p>
+<p>Agrupamiento:<br />Gran grupo</p>
+<p>Duración:<br />2 sesiones</p>
+<p>Herramientas digitales:<br />Teachable Machine, simuladores IA, vídeos interactivos, Google Colab, Kaggle</p>
+<p><strong>Actividad: Uso guiado de modelos preentrenados para analizar imágenes del dataset generado.</strong></p>
+<p>Criterio de evaluación:<br />DIG.4.1.3.</p>
+<p>Agrupamiento:<br />Parejas</p>
+<p>Duración:<br />1 sesión</p>
+<p>Herramientas digitales:<br />Teachable Machine, ordenador portátil</p>
+<p><strong>Actividad: Resolución de incidencias técnicas relacionadas con archivos, conexión y herramientas digitales.</strong></p>
+<p>Criterio de evaluación:<br />DIG.4.1.1.</p>
+<p>Agrupamiento:<br />Parejas</p>
+<p>Duración:<br />Durante todo el proyecto</p>
+<p>Herramientas digitales:<br />red del centro, dispositivos digitales, Google Classroom</p>
+<p><strong>FASE 5 — ROBÓTICA Y APLICACIONES REALES</strong><br /><strong>Actividad: Investigación sobre robots y sistemas automatizados aplicados a la limpieza de playas y mares.</strong></p>
+<p>Criterio de evaluación:<br />DIG.4.4.2.</p>
+<p>Agrupamiento:<br />Pequeño grupo</p>
+<p>Duración:<br />1 sesión</p>
+<p>Herramientas digitales:<br />navegador web, vídeos divulgativos, Canva</p>
+<p><strong>FASE 6 — PRODUCTO FINAL Y REFLEXIÓN</strong><br /><strong>Actividad: </strong><strong>Elaboración de una presentación final sobre IA, sostenibilidad y soluciones tecnológicas.</strong></p>
+<p>Criterio de evaluación:<br />DIG.4.2.4.</p>
+<p>Agrupamiento:<br />Pequeño grupo</p>
+<p>Duración:<br />1 sesión</p>
+<p>Herramientas digitales:<br />Canva, Genially, Google Slides</p>
+<p>Actividad<br />Exposición oral y reflexión crítica sobre el impacto social, ambiental y ético de la IA.</p>
+<p>Criterio de evaluación:<br />DIG.4.4.4.</p>
+<p>Agrupamiento:<br />Gran grupo</p>
+<p>Duración:<br />1 sesión</p>
+<p>Herramientas digitales:<br />presentaciones digitales, proyector multimedia</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778437612943-20hkv3b9n","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>“IA, visión artificial y robótica aplicada a la limpieza de playas”<br /><strong>FASE 1 — INTRODUCCIÓN Y CONTEXTUALIZACIÓN</strong><br /><strong>Actividad: Introducción a la inteligencia artificial, sostenibilidad y contaminación de playas mediante vídeos, noticias y debate guiado.</strong></p>\n<p>Criterio de evaluación:<br />DIG.4.4.3.</p>\n<p>Agrupamiento:<br />Gran grupo</p>\n<p>Duración:<br />1 sesión</p>\n<p>Herramientas digitales:<br />Canva, YouTube, Genially</p>\n<p><strong>Actividad: Investigación inicial sobre aplicaciones reales de IA y robótica en limpieza de entornos naturales.</strong></p>\n<p>Criterio de evaluación:<br />DIG.4.2.2.</p>\n<p>Agrupamiento:<br />Parejas</p>\n<p>Duración:<br />1 sesión</p>\n<p>Herramientas digitales:<br />Google Scholar, buscadores web, Padlet, Google Drive</p>\n<p><strong>FASE 2 — ORGANIZACIÓN DEL PROYECTO</strong><br /><strong>Actividad: </strong><strong>Organización de grupos cooperativos y asignación de roles.</strong></p>\n<p>Criterio de evaluación:<br />DIG.4.2.4.</p>\n<p>Agrupamiento:<br />Pequeño grupo</p>\n<p>Duración:<br />1 sesión</p>\n<p>Herramientas digitales:<br />Google Classroom, documentos compartidos, Trello</p>\n<p><strong>Actividad: Diseño del plan de trabajo y normas de uso responsable de la tecnología.</strong></p>\n<p>Criterio de evaluación:<br />DIG.4.4.1.</p>\n<p>Agrupamiento:<br />Pequeño grupo</p>\n<p>Duración:<br />1 sesión</p>\n<p>Herramientas digitales:<br />documentos colaborativos, Canva</p>\n<p><strong>FASE 3 — RECOGIDA Y ORGANIZACIÓN DE DATOS</strong><br /><strong>Actividad: Salida al entorno real para recoger imágenes del estado de limpieza de la playa.</strong></p>\n<p>Criterio de evaluación:<br />DIG.4.3.1.</p>\n<p>Agrupamiento:<br />Pequeño grupo</p>\n<p>Duración:<br />1 sesión</p>\n<p>Herramientas digitales:<br />dispositivos móviles, cámaras, Google Photos</p>\n<p><strong>Actividad: Transferencia, almacenamiento y organización de imágenes para crear el dataset.</strong></p>\n<p>Criterio de evaluación:<br />DIG.4.2.1.</p>\n<p>Agrupamiento:<br />Parejas</p>\n<p>Duración:<br />1 sesión</p>\n<p>Herramientas digitales:<br />Google Drive, Microsoft OneDrive</p>\n<p><strong>Actividad: Etiquetado y clasificación de imágenes para entrenar modelos de IA.</strong></p>\n<p>Criterio de evaluación:<br />DIG.4.2.3.</p>\n<p>Agrupamiento:<br />Pequeño grupo</p>\n<p>Duración:<br />2 sesiones</p>\n<p>Herramientas digitales:<br />Teachable Machine, Roboflow, hojas de cálculo</p>\n<p><strong>FASE 4 — INTRODUCCIÓN A LA VISIÓN ARTIFICIAL</strong><br /><strong>Actividad: </strong><strong>Introducción conceptual a redes neuronales, CNN y modelos modernos de visión artificial mediante ejemplos visuales y simulaciones.</strong></p>\n<p>Criterio de evaluación:<br />DIG.4.2.3.</p>\n<p>Agrupamiento:<br />Gran grupo</p>\n<p>Duración:<br />2 sesiones</p>\n<p>Herramientas digitales:<br />Teachable Machine, simuladores IA, vídeos interactivos, Google Colab, Kaggle</p>\n<p><strong>Actividad: Uso guiado de modelos preentrenados para analizar imágenes del dataset generado.</strong></p>\n<p>Criterio de evaluación:<br />DIG.4.1.3.</p>\n<p>Agrupamiento:<br />Parejas</p>\n<p>Duración:<br />1 sesión</p>\n<p>Herramientas digitales:<br />Teachable Machine, ordenador portátil</p>\n<p><strong>Actividad: Resolución de incidencias técnicas relacionadas con archivos, conexión y herramientas digitales.</strong></p>\n<p>Criterio de evaluación:<br />DIG.4.1.1.</p>\n<p>Agrupamiento:<br />Parejas</p>\n<p>Duración:<br />Durante todo el proyecto</p>\n<p>Herramientas digitales:<br />red del centro, dispositivos digitales, Google Classroom</p>\n<p><strong>FASE 5 — ROBÓTICA Y APLICACIONES REALES</strong><br /><strong>Actividad: Investigación sobre robots y sistemas automatizados aplicados a la limpieza de playas y mares.</strong></p>\n<p>Criterio de evaluación:<br />DIG.4.4.2.</p>\n<p>Agrupamiento:<br />Pequeño grupo</p>\n<p>Duración:<br />1 sesión</p>\n<p>Herramientas digitales:<br />navegador web, vídeos divulgativos, Canva</p>\n<p><strong>FASE 6 — PRODUCTO FINAL Y REFLEXIÓN</strong><br /><strong>Actividad: </strong><strong>Elaboración de una presentación final sobre IA, sostenibilidad y soluciones tecnológicas.</strong></p>\n<p>Criterio de evaluación:<br />DIG.4.2.4.</p>\n<p>Agrupamiento:<br />Pequeño grupo</p>\n<p>Duración:<br />1 sesión</p>\n<p>Herramientas digitales:<br />Canva, Genially, Google Slides</p>\n<p>Actividad<br />Exposición oral y reflexión crítica sobre el impacto social, ambiental y ético de la IA.</p>\n<p>Criterio de evaluación:<br />DIG.4.4.4.</p>\n<p>Agrupamiento:<br />Gran grupo</p>\n<p>Duración:<br />1 sesión</p>\n<p>Herramientas digitales:<br />presentaciones digitales, proyector multimedia</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778440981628-ugfb4nolc</odePageId>
+  <odeParentPageId>page-1778437610596-0kzwcs82u</odeParentPageId>
+  <pageName>Observaciones y recomendaciones al profesorado</pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Observaciones y recomendaciones al profesorado</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778440981628-ugfb4nolc</odePageId>
+      <odeBlockId>block-1778441163072-vna8lpew7</odeBlockId>
+      <blockName>Observaciones para la implementación en el aula</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778440981628-ugfb4nolc</odePageId>
+          <odeBlockId>block-1778441163072-vna8lpew7</odeBlockId>
+          <odeIdeviceId>idevice-1778441163071-3x8ccaedg</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Dado el carácter activo y experimental de la propuesta, es previsible que puedan surgir diferencias en los niveles de implicación del alumnado, así como dificultades puntuales en la organización del trabajo en grupo o en el manejo de herramientas digitales.</p>
+<p>Por ello, será necesario realizar un seguimiento constante del proceso, ofreciendo apoyo diferenciado según las necesidades de cada grupo. Asimismo, se recomienda alternar momentos de trabajo autónomo con puestas en común guiadas, con el fin de asegurar la comprensión de los objetivos de aprendizaje.</p>
+<p>La evaluación se abordará desde una perspectiva competencial, teniendo en cuenta no solo el producto final, sino también el proceso, la colaboración, la toma de decisiones y la capacidad de reflexión del alumnado.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778441163071-3x8ccaedg","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Dado el carácter activo y experimental de la propuesta, es previsible que puedan surgir diferencias en los niveles de implicación del alumnado, así como dificultades puntuales en la organización del trabajo en grupo o en el manejo de herramientas digitales.</p>\n<p>Por ello, será necesario realizar un seguimiento constante del proceso, ofreciendo apoyo diferenciado según las necesidades de cada grupo. Asimismo, se recomienda alternar momentos de trabajo autónomo con puestas en común guiadas, con el fin de asegurar la comprensión de los objetivos de aprendizaje.</p>\n<p>La evaluación se abordará desde una perspectiva competencial, teniendo en cuenta no solo el producto final, sino también el proceso, la colaboración, la toma de decisiones y la capacidad de reflexión del alumnado.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778440186003-jz07vqh9p</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Instrumentos de evaluación</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778440186003-jz07vqh9p</odePageId>
+      <odeBlockId>block-1778440188122-au70m5958</odeBlockId>
+      <blockName>Rúbrica y diana</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778440186003-jz07vqh9p</odePageId>
+          <odeBlockId>block-1778440188122-au70m5958</odeBlockId>
+          <odeIdeviceId>idevice-1778440188121-6g2mxjisl</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p></p>
+<p><strong>Rúbrica</strong></p>
+<p><img src="{{context_path}}/content/resources/rubrica.JPG" title="Rúbrica de evaluación" width="1145" height="756" alt="Rúbrica, foto" /></p>
+<p><strong>Diana</strong><br />Diana de autoevaluación<br />El alumnado valorará del 1 al 5 los siguientes aspectos:<br />● He participado activamente en mi grupo<br />● He comprendido cómo funciona el entrenamiento de modelos de IA<br />● He colaborado con mis compañeros/as<br />● He utilizado correctamente las herramientas digitales<br />● He comprendido la importancia de los datos en IA<br />● He reflexionado sobre el impacto medioambiental<br />● He aportado ideas al proyecto<br />● Me he sentido implicado/a en la actividad</p>
+<p></p>
+<p><strong>Detalle:</strong></p>
+<p><strong>Instrumento 1: Rúbrica analítica del proyecto</strong><br />Descripción<br />Se utilizará una rúbrica analítica digital para evaluar el desarrollo global del<br />proyecto. Esta rúbrica será compartida con el alumnado desde el inicio de la<br />actividad para favorecer la transparencia y la comprensión de los criterios de<br />evaluación.<br />La rúbrica se aplicará principalmente en:<br />● El trabajo cooperativo<br />● La calidad del dataset generado<br />● La participación en el proceso de etiquetado<br />● La comprensión básica del funcionamiento de los modelos de visión artificial<br />● La investigación sobre robótica aplicada<br />● La presentación y reflexión final<br />La herramienta podrá elaborarse mediante Google Classroom, CoRubrics o<br />formularios digitales.<br />Qué se evaluará<br />La rúbrica permitirá evaluar:<br />● Participación activa<br />● Organización y colaboración dentro del grupo<br />● Calidad y coherencia de las imágenes recogidas<br />● Correcto etiquetado de los datos<br />● Comprensión conceptual del reentrenamiento de modelos<br />● Capacidad crítica sobre el uso de IA y robótica<br />● Reflexión final sobre el aprendizaje realizado<br />Otención y tratamiento de datos<br />Los datos obtenidos permitirán detectar:<br />● Diferencias de implicación entre grupos<br />● Nivel de comprensión técnica<br />● Dificultades organizativas<br />● Evolución del alumnado durante el proyecto<br />La información se analizará comparando:<br />● Resultados grupales<br />● Observaciones del docente<br />● Autoevaluaciones del alumnado<br />Esto permitirá ajustar futuras implementaciones y detectar posibles desigualdades<br />en la participación.</p>
+<p></p>
+<p><br /><strong>Instrumento 2: Diana de autoevaluación</strong><br />Descripción<br />Se utilizará una diana de autoevaluación digital al finalizar determinadas fases del<br />proyecto, especialmente:<br />● Tras la salida de recogida de datos<br />● Tras el proceso de etiquetado<br />● Al finalizar el proyecto<br />La finalidad será fomentar la reflexión del alumnado sobre su propio aprendizaje y<br />participación.<br />La diana podrá elaborarse mediante Canva, Genially o formularios interactivos.<br />Qué se evaluará<br />El alumnado valorará aspectos como:<br />● Nivel de participación<br />● Comprensión de los contenidos<br />● Capacidad de trabajo en equipo<br />● Organización personal<br />● Uso de herramientas digitales<br />● Interés e implicación<br />● Comprensión del impacto de la IA en problemas reales<br />Obtención y tratamiento de datos<br />Los datos permitirán identificar:<br />● Diferencias entre percepción del alumnado y evaluación docente<br />● Problemas de motivación<br />● Necesidades de apoyo<br />● Percepción de dificultad de las tareas<br />Estos resultados no se utilizarán únicamente para calificar, sino también para<br />mejorar la práctica docente y adaptar futuras actividades.<br />Además, la comparación entre autoevaluación y rúbrica favorecerá procesos de<br />triangulación de datos.<br />● Resultados de la rúbrica<br />● Autoevaluaciones<br />● Producto final generado<br />De este modo, se aplicará una evaluación más completa y ajustada a la realidad del proceso de aprendizaje.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778440188121-6g2mxjisl","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p></p>\n<p><strong>Rúbrica</strong></p>\n<p><img src=\"{{context_path}}/content/resources/rubrica.JPG\" title=\"Rúbrica de evaluación\" width=\"1145\" height=\"756\" alt=\"Rúbrica, foto\" /></p>\n<p><strong>Diana</strong><br />Diana de autoevaluación<br />El alumnado valorará del 1 al 5 los siguientes aspectos:<br />● He participado activamente en mi grupo<br />● He comprendido cómo funciona el entrenamiento de modelos de IA<br />● He colaborado con mis compañeros/as<br />● He utilizado correctamente las herramientas digitales<br />● He comprendido la importancia de los datos en IA<br />● He reflexionado sobre el impacto medioambiental<br />● He aportado ideas al proyecto<br />● Me he sentido implicado/a en la actividad</p>\n<p></p>\n<p><strong>Detalle:</strong></p>\n<p><strong>Instrumento 1: Rúbrica analítica del proyecto</strong><br />Descripción<br />Se utilizará una rúbrica analítica digital para evaluar el desarrollo global del<br />proyecto. Esta rúbrica será compartida con el alumnado desde el inicio de la<br />actividad para favorecer la transparencia y la comprensión de los criterios de<br />evaluación.<br />La rúbrica se aplicará principalmente en:<br />● El trabajo cooperativo<br />● La calidad del dataset generado<br />● La participación en el proceso de etiquetado<br />● La comprensión básica del funcionamiento de los modelos de visión artificial<br />● La investigación sobre robótica aplicada<br />● La presentación y reflexión final<br />La herramienta podrá elaborarse mediante Google Classroom, CoRubrics o<br />formularios digitales.<br />Qué se evaluará<br />La rúbrica permitirá evaluar:<br />● Participación activa<br />● Organización y colaboración dentro del grupo<br />● Calidad y coherencia de las imágenes recogidas<br />● Correcto etiquetado de los datos<br />● Comprensión conceptual del reentrenamiento de modelos<br />● Capacidad crítica sobre el uso de IA y robótica<br />● Reflexión final sobre el aprendizaje realizado<br />Otención y tratamiento de datos<br />Los datos obtenidos permitirán detectar:<br />● Diferencias de implicación entre grupos<br />● Nivel de comprensión técnica<br />● Dificultades organizativas<br />● Evolución del alumnado durante el proyecto<br />La información se analizará comparando:<br />● Resultados grupales<br />● Observaciones del docente<br />● Autoevaluaciones del alumnado<br />Esto permitirá ajustar futuras implementaciones y detectar posibles desigualdades<br />en la participación.</p>\n<p></p>\n<p><br /><strong>Instrumento 2: Diana de autoevaluación</strong><br />Descripción<br />Se utilizará una diana de autoevaluación digital al finalizar determinadas fases del<br />proyecto, especialmente:<br />● Tras la salida de recogida de datos<br />● Tras el proceso de etiquetado<br />● Al finalizar el proyecto<br />La finalidad será fomentar la reflexión del alumnado sobre su propio aprendizaje y<br />participación.<br />La diana podrá elaborarse mediante Canva, Genially o formularios interactivos.<br />Qué se evaluará<br />El alumnado valorará aspectos como:<br />● Nivel de participación<br />● Comprensión de los contenidos<br />● Capacidad de trabajo en equipo<br />● Organización personal<br />● Uso de herramientas digitales<br />● Interés e implicación<br />● Comprensión del impacto de la IA en problemas reales<br />Obtención y tratamiento de datos<br />Los datos permitirán identificar:<br />● Diferencias entre percepción del alumnado y evaluación docente<br />● Problemas de motivación<br />● Necesidades de apoyo<br />● Percepción de dificultad de las tareas<br />Estos resultados no se utilizarán únicamente para calificar, sino también para<br />mejorar la práctica docente y adaptar futuras actividades.<br />Además, la comparación entre autoevaluación y rúbrica favorecerá procesos de<br />triangulación de datos.<br />● Resultados de la rúbrica<br />● Autoevaluaciones<br />● Producto final generado<br />De este modo, se aplicará una evaluación más completa y ajustada a la realidad del proceso de aprendizaje.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
