@@ -10,11 +10,11 @@
 <odeResources>
   <odeResource>
     <key>odeId</key>
-    <value>202605102142416HH9WJ</value>
+    <value>20260510225556HHCVEW</value>
   </odeResource>
   <odeResource>
     <key>odeVersionId</key>
-    <value>202605102142415MAJPS</value>
+    <value>20260510225556EB0TG8</value>
   </odeResource>
   <odeResource>
     <key>exe_version</key>
@@ -823,6 +823,69 @@
 <p><br /><strong>Instrumento 2: Diana de autoevaluación</strong><br />Descripción<br />Se utilizará una diana de autoevaluación digital al finalizar determinadas fases del<br />proyecto, especialmente:<br />● Tras la salida de recogida de datos<br />● Tras el proceso de etiquetado<br />● Al finalizar el proyecto<br />La finalidad será fomentar la reflexión del alumnado sobre su propio aprendizaje y<br />participación.<br />La diana podrá elaborarse mediante Canva, Genially o formularios interactivos.<br />Qué se evaluará<br />El alumnado valorará aspectos como:<br />● Nivel de participación<br />● Comprensión de los contenidos<br />● Capacidad de trabajo en equipo<br />● Organización personal<br />● Uso de herramientas digitales<br />● Interés e implicación<br />● Comprensión del impacto de la IA en problemas reales<br />Obtención y tratamiento de datos<br />Los datos permitirán identificar:<br />● Diferencias entre percepción del alumnado y evaluación docente<br />● Problemas de motivación<br />● Necesidades de apoyo<br />● Percepción de dificultad de las tareas<br />Estos resultados no se utilizarán únicamente para calificar, sino también para<br />mejorar la práctica docente y adaptar futuras actividades.<br />Además, la comparación entre autoevaluación y rúbrica favorecerá procesos de<br />triangulación de datos.<br />● Resultados de la rúbrica<br />● Autoevaluaciones<br />● Producto final generado<br />De este modo, se aplicará una evaluación más completa y ajustada a la realidad del proceso de aprendizaje.</p>
 </div>]]></htmlView>
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1778440188121-6g2mxjisl","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p></p>\n<p><strong>Rúbrica</strong></p>\n<p><img src=\"{{context_path}}/content/resources/rubrica.JPG\" title=\"Rúbrica de evaluación\" width=\"1145\" height=\"756\" alt=\"Rúbrica, foto\" /></p>\n<p><strong>Diana</strong><br />Diana de autoevaluación<br />El alumnado valorará del 1 al 5 los siguientes aspectos:<br />● He participado activamente en mi grupo<br />● He comprendido cómo funciona el entrenamiento de modelos de IA<br />● He colaborado con mis compañeros/as<br />● He utilizado correctamente las herramientas digitales<br />● He comprendido la importancia de los datos en IA<br />● He reflexionado sobre el impacto medioambiental<br />● He aportado ideas al proyecto<br />● Me he sentido implicado/a en la actividad</p>\n<p></p>\n<p><strong>Detalle:</strong></p>\n<p><strong>Instrumento 1: Rúbrica analítica del proyecto</strong><br />Descripción<br />Se utilizará una rúbrica analítica digital para evaluar el desarrollo global del<br />proyecto. Esta rúbrica será compartida con el alumnado desde el inicio de la<br />actividad para favorecer la transparencia y la comprensión de los criterios de<br />evaluación.<br />La rúbrica se aplicará principalmente en:<br />● El trabajo cooperativo<br />● La calidad del dataset generado<br />● La participación en el proceso de etiquetado<br />● La comprensión básica del funcionamiento de los modelos de visión artificial<br />● La investigación sobre robótica aplicada<br />● La presentación y reflexión final<br />La herramienta podrá elaborarse mediante Google Classroom, CoRubrics o<br />formularios digitales.<br />Qué se evaluará<br />La rúbrica permitirá evaluar:<br />● Participación activa<br />● Organización y colaboración dentro del grupo<br />● Calidad y coherencia de las imágenes recogidas<br />● Correcto etiquetado de los datos<br />● Comprensión conceptual del reentrenamiento de modelos<br />● Capacidad crítica sobre el uso de IA y robótica<br />● Reflexión final sobre el aprendizaje realizado<br />Otención y tratamiento de datos<br />Los datos obtenidos permitirán detectar:<br />● Diferencias de implicación entre grupos<br />● Nivel de comprensión técnica<br />● Dificultades organizativas<br />● Evolución del alumnado durante el proyecto<br />La información se analizará comparando:<br />● Resultados grupales<br />● Observaciones del docente<br />● Autoevaluaciones del alumnado<br />Esto permitirá ajustar futuras implementaciones y detectar posibles desigualdades<br />en la participación.</p>\n<p></p>\n<p><br /><strong>Instrumento 2: Diana de autoevaluación</strong><br />Descripción<br />Se utilizará una diana de autoevaluación digital al finalizar determinadas fases del<br />proyecto, especialmente:<br />● Tras la salida de recogida de datos<br />● Tras el proceso de etiquetado<br />● Al finalizar el proyecto<br />La finalidad será fomentar la reflexión del alumnado sobre su propio aprendizaje y<br />participación.<br />La diana podrá elaborarse mediante Canva, Genially o formularios interactivos.<br />Qué se evaluará<br />El alumnado valorará aspectos como:<br />● Nivel de participación<br />● Comprensión de los contenidos<br />● Capacidad de trabajo en equipo<br />● Organización personal<br />● Uso de herramientas digitales<br />● Interés e implicación<br />● Comprensión del impacto de la IA en problemas reales<br />Obtención y tratamiento de datos<br />Los datos permitirán identificar:<br />● Diferencias entre percepción del alumnado y evaluación docente<br />● Problemas de motivación<br />● Necesidades de apoyo<br />● Percepción de dificultad de las tareas<br />Estos resultados no se utilizarán únicamente para calificar, sino también para<br />mejorar la práctica docente y adaptar futuras actividades.<br />Además, la comparación entre autoevaluación y rúbrica favorecerá procesos de<br />triangulación de datos.<br />● Resultados de la rúbrica<br />● Autoevaluaciones<br />● Producto final generado<br />De este modo, se aplicará una evaluación más completa y ajustada a la realidad del proceso de aprendizaje.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778445646674-05gqrtx6v</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778445646674-05gqrtx6v</odePageId>
+      <odeBlockId>block-1778445648611-p3yw9763q</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778445646674-05gqrtx6v</odePageId>
+          <odeBlockId>block-1778445648611-p3yw9763q</odeBlockId>
+          <odeIdeviceId>idevice-1778445648609-neyhj52b9</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Este sitio web está desarrollado por Miguel Francisco Hernández Roldán su contenido se ofrece bajo la licencia CC0 1.0 Universal</p>
+<p>To the extent possible under law, the author(s) have dedicated all copyright and related and neighboring rights to this work to the public domain worldwide.</p>
+<p>This work is distributed without any warranty.</p>
+<p><a href="https://creativecommons.org/publicdomain/zero/1.0/">https://creativecommons.org/publicdomain/zero/1.0/</a></p>
+<p><br /></p>
+<p>El contenido de este sitio puede descargarse aquí <a href="{{context_path}}/content/resources/inteligencia-artificial-cnn-y-robotica-analisis-y-_web.zip" title="inteligencia-artificial-cnn-y-robotica-analisis-y-_web.zip [zip - 1997994 B]">inteligencia-artificial-cnn-y-robotica-analisis-y-_web.zip</a><span class="exe-link-data file-size">(zip - 1997994 <abbr title="Bytes">B</abbr>)</span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778445648609-neyhj52b9","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Este sitio web está desarrollado por Miguel Francisco Hernández Roldán su contenido se ofrece bajo la licencia CC0 1.0 Universal</p>\n<p>To the extent possible under law, the author(s) have dedicated all copyright and related and neighboring rights to this work to the public domain worldwide.</p>\n<p>This work is distributed without any warranty.</p>\n<p><a href=\"https://creativecommons.org/publicdomain/zero/1.0/\">https://creativecommons.org/publicdomain/zero/1.0/</a></p>\n<p><br /></p>\n<p>El contenido de este sitio puede descargarse aquí <a href=\"{{context_path}}/content/resources/inteligencia-artificial-cnn-y-robotica-analisis-y-_web.zip\" title=\"inteligencia-artificial-cnn-y-robotica-analisis-y-_web.zip [zip - 1997994 B]\">inteligencia-artificial-cnn-y-robotica-analisis-y-_web.zip</a><span class=\"exe-link-data file-size\">(zip - 1997994 <abbr title=\"Bytes\">B</abbr>)</span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
           </odeComponentsProperties>
